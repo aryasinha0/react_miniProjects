@@ -1,1 +1,0 @@
-A simple Counter App built with React. It demonstrates the use of the useState hook to manage state in a functional component. The app lets users increment, decrement, or reset the counter value in real time.
