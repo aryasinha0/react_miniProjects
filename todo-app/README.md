@@ -1,0 +1,3 @@
+## Project Short Description
+---
+This is a React-based Todo App that allows users to add, mark as complete/undo, and delete tasks. Each task is assigned an auto-incremented ID that automatically resets after deletion to maintain order. The app uses reusable components (TodoInput, TodoList, TodoItem) and demonstrates state management with hooks, props for data flow, and array operations (map, filter). 
